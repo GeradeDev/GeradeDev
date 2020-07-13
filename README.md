@@ -1,4 +1,6 @@
-### Gerade Geldenhuys - @Raidzen10
+<h3 align="center">Gerade Geldenhuys - @Raidzen10</h3>
+
+---
 
 Hi 👋, I am Gerade, Senior .NET Developer @ [bbd](https://bbdsoftware.com/) working a the REP (Right E-Pharmacy) team, developing solutions for the dispensing, distribution and collection of medicine accross South Africa.
 
