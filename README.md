@@ -1,4 +1,6 @@
-<h3 align="center">Gerade Geldenhuys - @Raidzen10</h3>
+<p>
+  <h3 align="center">Gerade Geldenhuys - @Raidzen10</h3>
+</p>
 
 ---
 
