@@ -4,7 +4,7 @@
 
 Hi 👋, I am Gerade, Senior .NET Developer @ [bbd](https://bbdsoftware.com/) working a the REP (Right E-Pharmacy) team, developing solutions for the dispensing, distribution and collection of medicine accross South Africa.
 
-## Moi
+## Me
 - 🌱 I’m currently learning how to do Distributed Systems. Implementing concepts by developing a reference application linked below
 - 🔭 I’m currently working on [MedPark](https://github.com/Med-Park)
 
