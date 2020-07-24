@@ -1,7 +1,7 @@
 ![Gerade Gelldenhuys](https://geradewebsitestorage.blob.core.windows.net/website/GG_logo-3_(R1).jpg)
 ---
 
-Hi 👋, I am Gerade, Senior .NET Developer @ [bbd](https://bbdsoftware.com/) working a the REP (Right E-Pharmacy) team, developing solutions for the dispensing, distribution and collection of medicine accross South Africa.
+Hi 👋, I am Gerade, Senior .NET Developer @ [bbd](https://bbdsoftware.com/) working on the REP (Right E-Pharmacy) team, developing solutions for the dispensing, distribution and collection of medicine accross South Africa.
 
 ## Me
 - 🌱 I’m currently learning how to do Distributed Systems. Implementing concepts by developing a reference application linked below
